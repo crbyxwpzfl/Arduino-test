@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1/cores/rp2040"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1/variants/adafruit_feather_adalogger"
+  },
+  {
+    "Sourcefile": "/workspaces/Arduino-test/test/firmware/sketch/test.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

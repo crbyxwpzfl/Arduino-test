@@ -1,0 +1,31 @@
+/workspaces/Arduino-test/test/firmware/core/sdkoverride/inet_chksum.cpp.o: \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1/cores/rp2040/sdkoverride/inet_chksum.cpp \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/opt.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/debug.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/arch.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/rp2_common/pico_lwip/include/arch/cc.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/common/pico_base_headers/include/pico.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/common/pico_base_headers/include/pico/types.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/common/pico_base_headers/include/pico/assert.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//include/rp2040/pico_base/pico/version.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/common/pico_base_headers/include/pico/config.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//include/rp2040/pico_base/pico/config_autogen.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1/cores/rp2040/../../pico-sdk/src/boards/include/boards/pico_w.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1/cores/rp2040/../../pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/rp2040/pico_platform/include/pico/platform.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/rp2_common/pico_platform_compiler/include/pico/platform/compiler.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/rp2040/hardware_regs/include/hardware/platform_defs.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/common/pico_base_headers/include/pico/types.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/rp2_common/pico_platform_sections/include/pico/platform/sections.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/rp2_common/pico_platform_panic/include/pico/platform/panic.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/addressmap.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/src/common/pico_base_headers/include/pico/error.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/inet_chksum.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/pbuf.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/err.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/ip_addr.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/def.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/ip4_addr.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/ip6_addr.h \
+ /home/codespace/.arduino15/packages/rp2040/hardware/rp2040/4.5.1//pico-sdk/lib/lwip/src/include/lwip/def.h

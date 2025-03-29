@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "rp2040:rp2040:adafruit_feather_adalogger",
+  "hardwareFolders": "/home/codespace/.arduino15/packages",
+  "otherLibrariesFolders": "/home/codespace/Arduino/libraries",
+  "sketchLocation": "/workspaces/Arduino-test/test"
+}
