@@ -5,5 +5,13 @@ jobs:
   reusable_workflow_job:
     runs-on: ubuntu-latest
     steps:
-      - name: do sth
-        run: echo "me say hi"
+      - name: inspect secret
+        env:
+          SECRET: ${{ secrets.TEST }}
+        run: |
+          echo Password is $SECRET
+          if [[ $SECRET == *"TEST"* ]]; then
+            echo "This is the secret set in reusable repo!"
+          else
+            echo "This is secret is NOT recognized"
+          fi
