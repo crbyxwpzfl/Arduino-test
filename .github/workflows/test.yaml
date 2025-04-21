@@ -1,5 +1,6 @@
 on:
   workflow_call:
+  workflow_dispatch:
 
 jobs:
   reusable_workflow_job:
@@ -13,5 +14,5 @@ jobs:
           if [[ $SECRET == *"TEST"* ]]; then
             echo "This is the secret set in reusable repo!"
           else
-            echo "This is secret is NOT recognized"
+            echo "This secret is NOT recognized"
           fi
