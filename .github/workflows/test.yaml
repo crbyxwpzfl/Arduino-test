@@ -5,14 +5,22 @@ on:
 jobs:
   reusable_workflow_job:
     runs-on: ubuntu-latest
+    environment: testenv
     steps:
       - name: inspect secret
         env:
+          ENVSECRET: ${{ secrets.TESTHI }}
           SECRET: ${{ secrets.TEST }}
         run: |
-          echo Password is $SECRET
+          echo repo secret is $SECRET
           if [[ $SECRET == *"TEST"* ]]; then
-            echo "This is the secret set in reusable repo!"
+            echo "This is the repo secret set in reusable repo!"
           else
-            echo "This secret is NOT recognized"
+            echo "This repo secret is NOT recognized"
+          fi
+          echo env secret is $ENVSECRET
+          if [[ $ENVSECRET == *"TESTHI"* ]]; then
+            echo "This is the env secret set in reusable repo!"
+          else
+            echo "This env secret is NOT recognized"
           fi
